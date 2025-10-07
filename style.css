@@ -1,0 +1,37 @@
+body {
+	display: flex;
+	background-color: black;
+}
+.text {
+	display: flex;
+	flex-direction: column;
+    margin: auto;
+    color: white;
+    border: white solid 5px;
+}
+.carte{
+    display: flex;
+    margin: auto;
+    
+}
+.you{
+    display: flex;
+    
+}
+h2{
+    text-indent: 10px;
+}
+p{
+    color: #7E7E7E;
+}
+.ferrari{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid 5px red;
+    margin: auto;
+
+}
+.cartetext{
+    
+}
