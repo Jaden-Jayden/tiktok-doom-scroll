@@ -9,11 +9,7 @@ body {
     color: white;
     border: white solid 5px;
 }
-.carte{
-    display: flex;
-    margin: auto;
-    
-}
+
 .you{
     display: flex;
     
@@ -26,7 +22,7 @@ p{
 }
 .ferrari{
     display: flex;
-    flex-direction: column;
+    
     align-items: center;
     border: solid 5px red;
     margin: auto;
@@ -34,4 +30,10 @@ p{
 }
 .cartetext{
     
+}
+.waste {
+    color: blue;
+    background-color: blue;
+    width: 500px;
+    height: 500px;
 }
